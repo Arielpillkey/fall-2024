@@ -2,12 +2,12 @@
 @import 'main.css';
 
 .test-font{
-color: #c92fc3;
+color: var(--dominantColor) !important;;
 }
 
 
 .test-font-2{
-    color: #c92fc3;
+    color:var(--dominantColor) !important;;
 }
 
 
