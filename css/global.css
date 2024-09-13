@@ -1,0 +1,20 @@
+/* colors */
+
+/*
+60% of #c92fc3 - Primary
+30% of #822fc9 - Secondary
+10% of #352fc9 - Accent
+*/
+
+:root {
+
+/* var(--dominantColor) !important; */
+--dominantColor:#c92fc3;
+
+/* var(--secondaryColor) !important; */
+--secondaryColor: #822fc9;
+
+/* var(--accentColor) !important; */
+--accentColor:#352fc9;
+
+}
